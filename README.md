@@ -1,5 +1,8 @@
 # CAR-E-RENTAL-PROJECT
 
+shreyash sharma 2022ucm2385
+chirag gahalawat 2022ucm2376
+
 How to run the Car Rental Project
 
 1. Download and Unzip the file on your local system copy carrental .
